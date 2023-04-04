@@ -1,0 +1,22 @@
+body {
+    background-color: #F5EBEB;
+}
+
+h1 {
+    color: #DD5353;
+}
+
+h3 {
+    color: #B73E3E;
+    font-size: 20px;
+}
+
+p,
+ul,
+ol {
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+}
